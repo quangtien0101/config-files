@@ -6,11 +6,10 @@
       {
         "id": "4a1efbe8129ceae0",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 - Research Gitlab CI.md",
+            "file": "30 - Maxscale deep dive.md",
             "mode": "source"
           }
         }
@@ -53,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "dda36345c3825039",
@@ -70,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Research Gitlab CI.md",
+                "file": "30 - Maxscale deep dive.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,16 +97,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "4a1efbe8129ceae0",
   "lastOpenFiles": [
-    "10 - Research Gitlab CI.md",
-    "Tasks.md",
-    "15 - Install gitlab.md",
+    "30 - Maxscale deep dive.md",
+    "20 - Maxscale with PHP application.md",
+    "15 - Analyze maxscale.md",
+    "10 - Maxscale setup.md",
+    "General.md",
+    "Issues.md",
+    "05 - Galera cluster.md",
     "Untitled.md",
-    "Task.md",
-    "Reading/Step17.md",
-    "Screen_shot/Pasted image 20210323170855.png",
-    "Reading/Pasted image 20210323170855.png",
-    "Reading/Step16.md",
-    "Week06.md"
+    "Screen-shots/Overview architecture.png",
+    "Screen-shots/Overview architecture 1.png"
   ]
 }
