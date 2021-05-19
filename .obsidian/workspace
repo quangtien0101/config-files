@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "ec33b86f6d3b99b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a1efbe8129ceae0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10 - Research Gitlab CI.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e87f136a66003b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8dd3b57b9d5f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b0cbd8fa7d9022",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "77f6209da059241b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dda36345c3825039",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee2107115bd2de27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a550a03a9d656e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10 - Research Gitlab CI.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d97832caf8a8ca2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "10 - Research Gitlab CI.md",
+    "Tasks.md",
+    "15 - Install gitlab.md",
+    "Untitled.md",
+    "Task.md",
+    "Reading/Step17.md",
+    "Screen_shot/Pasted image 20210323170855.png",
+    "Reading/Pasted image 20210323170855.png",
+    "Reading/Step16.md",
+    "Week06.md"
+  ]
+}
