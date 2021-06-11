@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "30 - Maxscale deep dive.md",
-            "mode": "source"
+            "file": "50 - DRAFT.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 302.5
   },
   "right": {
     "id": "dda36345c3825039",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 - Maxscale deep dive.md",
+                "file": "50 - DRAFT.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "066b03b82d7f2481",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -99,15 +108,15 @@
   },
   "active": "4a1efbe8129ceae0",
   "lastOpenFiles": [
-    "30 - Maxscale deep dive.md",
-    "20 - Maxscale with PHP application.md",
-    "15 - Analyze maxscale.md",
-    "10 - Maxscale setup.md",
+    "Temp.md",
+    "Maxscale with Galera case study.md",
     "General.md",
+    "30 - Maxscale deep dive.md",
     "Issues.md",
-    "05 - Galera cluster.md",
+    "40 - Analyze master priorities.md",
+    "45 - Increase the availability of Maxscale itself.md",
     "Untitled.md",
-    "Screen-shots/Overview architecture.png",
-    "Screen-shots/Overview architecture 1.png"
+    "35 - Analyze Master failure events.md",
+    "25 - About Galera cluster.md"
   ]
 }
