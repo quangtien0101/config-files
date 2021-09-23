@@ -60,6 +60,15 @@ prompt_wlo1()
 	echo -n "%{%k%F{$yellow}%}`ip addr show dev $(ip route ls|awk '/default/ {print $5}')|grep -Po 'inet \K(\d{1,3}\.?){4}'`%{%k%F{$green}%}]-["
 }
 
+# tun0
+prompt_tun0()
+{
+    if [[ $(ip addr | grep -i tun0) ]]; then
+	  echo -n "%{%k%F{$yellow}%}`ip addr show dev tun0 |grep -Po 'inet \K(\d{1,3}\.?){4}'`%{%k%F{$green}%}]-[";
+    else
+      echo -n "";
+    fi
+}
 prompt_time()
 {
  	echo -n "$(date +%H:%M:%S)]-["
@@ -121,6 +130,7 @@ build_prompt() {
   #prompt_vpn_loc
   prompt_time
   prompt_wlo1
+  prompt_tun0
   #prompt_vpn_ip
   prompt_virtualenv
   prompt_context
