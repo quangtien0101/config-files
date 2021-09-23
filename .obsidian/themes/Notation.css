@@ -46,7 +46,7 @@ body.theme-dark {
   --hue: 203;
   --sat: 8%;
   --interactive-accent-rgb: 46, 170, 220;
-  --code: #EB5757;
+  --code: #9fef00;
 
   --opacity-translucency: 0.7;
 }
@@ -161,40 +161,68 @@ body.theme-light {
 /* 4. Markdown (editor / preview)
 /* 4.1. Headings */
 .markdown-preview-view h1 {
-  font-size: 30px;
-  margin-top: 32px;
-  margin-bottom: 4px;
+  font-weight: 500;
+  font-size: 34px;
+  color:#cc241d;
 }
 
 .markdown-preview-view h2 {
+  font-weight: 500;
   font-size: 24px;
-  margin-top: 23px;
-  margin-bottom: 1px;
+  color: #d65d0e;
 }
 
-.markdown-preview-view h3,
-.markdown-preview-view h4,
+.markdown-preview-view h3
+{
+  font-weight: 500 !important;
+  font-size: 22px !important;
+  color: #d79921;
+}
+.markdown-preview-view h4
+{
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  color: #98971a;
+}
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
-  font-size: 20px;
-  margin-top: 16px;
-  margin-bottom: 0px;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+  color: #689d6a;
 }
 
 .cm-s-obsidian .cm-header-1 {
-  font-size: 30px;
+  font-weight: 500;
+  font-size: 34px;
+  color:#cc241d;
 }
 
 .cm-s-obsidian .cm-header-2 {
+  font-weight: 500;
   font-size: 24px;
+  color: #d65d0e;
 }
 
-.cm-s-obsidian .cm-header-3,
-.cm-s-obsidian .cm-header-4,
-.cm-s-obsidian .cm-header-5,
-.cm-s-obsidian .cm-header-6 {
-  font-size: 20px;
+.cm-s-obsidian .cm-header-3
+{
+  font-weight: 500 !important;
+  font-size: 22px !important;
+  color: #d79921;
 }
+.cm-s-obsidian .cm-header-4
+{
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    color: #98971a;
+}
+.cm-s-obsidian .cm-header-5,
+.cm-s-obsidian .cm-header-6 
+{
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    color: #689d6a;
+}
+
 
 .cm-s-obsidian .cm-header-6 {
   color: var(--text-muted);
@@ -662,14 +690,14 @@ ol>li {
 /* This is where the magic happens */
 .workspace-leaf-content[data-type=markdown] .view-header,
 .workspace-leaf.mod-active .workspace-leaf-content[data-type=markdown] .view-header {
-  max-width: 700px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
   border: none;
   background-color: transparent;
   height: auto;
-  padding-top: 108px;
+  padding-top: 30px;  /*Change this to resize the font of the pane*/
 }
 
 .workspace-split.mod-root .workspace-leaf {
@@ -790,6 +818,10 @@ ol>li {
 .markdown-source-view,
 .workspace-split.mod-root .view-content {
   position: unset;
+}
+.markdown-source-view, .markdown-preview-view {
+max-width: 1000px;
+margin: auto;
 }
 
 /* 8. Tags */

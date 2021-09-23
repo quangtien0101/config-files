@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1efbe8129ceae0",
+        "id": "862540648a1b6285",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Windows/Windows Fundametal/05 - NTFS vs Shares Permissions.md",
-            "mode": "source"
+            "file": "Web/SQL injection/01 - Mysql.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 367
   },
   "right": {
     "id": "dda36345c3825039",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Windows Fundametal/05 - NTFS vs Shares Permissions.md",
+                "file": "Web/SQL injection/01 - Mysql.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,34 +97,26 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8a7b579f88ec620f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4a1efbe8129ceae0",
+  "active": "862540648a1b6285",
   "lastOpenFiles": [
-    "Windows/Windows Fundametal/05 - NTFS vs Shares Permissions.md",
+    "Web/SQL injection/01 - Mysql.md",
+    "Web/ffuf/Cheatsheet.md",
     "Windows/Windows Fundametal/03 - File System.md",
     "Windows/Windows Fundametal/04 - Windows Services & Processes.md",
-    "Windows/Windows Fundametal/01-Introduction to Windows.md",
-    "Windows/Windows Fundametal/02-Operating System Structure.md",
-    "Windows/Windows Fundametal/04-Windows Services & Processes.md",
-    "Pasted image 20210723233632.png",
+    "Windows/Windows Fundametal/05 - NTFS vs Shares Permissions.md",
+    "Windows/Windows Fundametal/01 - Introduction to Windows.md",
+    "Windows/Windows Fundametal/02 - Operating System Structure.md",
     "Untitled.md",
-    "Temp.md",
-    "Maxscale with Galera case study.md"
+    "Windows/Windows Fundametal/01-Introduction to Windows.md",
+    "Windows/Windows Fundametal/02-Operating System Structure.md"
   ]
 }

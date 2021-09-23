@@ -1,6 +1,9 @@
 [
-  "code-block-copy",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-plugin-toc",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "code-block-copy",
+  "obsidian-code-block-enhancer",
+  "obsidian-icons-plugin",
+  "obsidian-tabs"
 ]
