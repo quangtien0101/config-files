@@ -444,7 +444,7 @@ strong,
 }
 
 .markdown-preview-view pre>code {
-  padding: 24px 6px 24px 10px;
+  padding: 5px 2px 5px 3px;
   color: var(--text-normal);
   display: block;
   overflow: auto;

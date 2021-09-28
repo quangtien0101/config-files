@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/SQL injection/01 - Mysql.md",
+            "file": "Web/SQL injection/02 - SQL injection.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/SQL injection/01 - Mysql.md",
+                "file": "Web/SQL injection/02 - SQL injection.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "862540648a1b6285",
   "lastOpenFiles": [
+    "Web/SQL injection/02 - SQL injection.md",
+    "Web/SQL injection/Pasted image 20210926174719.png",
+    "Web/SQL injection/Pasted image 20210926174403.png",
+    "Web/SQL injection/Pasted image 20210926174200.png",
+    "Web/SQL injection/Pasted image 20210926170354.png",
+    "Web/SQL injection/Pasted image 20210926161046.png",
     "Web/SQL injection/01 - Mysql.md",
-    "Web/ffuf/Cheatsheet.md",
-    "Windows/Windows Fundametal/03 - File System.md",
-    "Windows/Windows Fundametal/04 - Windows Services & Processes.md",
-    "Windows/Windows Fundametal/05 - NTFS vs Shares Permissions.md",
-    "Windows/Windows Fundametal/01 - Introduction to Windows.md",
-    "Windows/Windows Fundametal/02 - Operating System Structure.md",
-    "Untitled.md",
-    "Windows/Windows Fundametal/01-Introduction to Windows.md",
-    "Windows/Windows Fundametal/02-Operating System Structure.md"
+    "Web/SQL injection/Pasted image 20210925153133.png",
+    "Web/SQL injection/Pasted image 20210925151128.png",
+    "Web/SQL injection/Pasted image 20210925114730.png"
   ]
 }
